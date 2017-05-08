@@ -27,4 +27,4 @@ public interface ICheckout
 
 ## What we're looking for
 
-We're _not_ looking for a complete solution. We're looking for the way that you tackle the problem, your thought processes, and the code you write as a result.
+We're looking for the way that you tackle the problem, your thought processes, and the code you write as a result. Commit as many times as you like, this will help with following your thought processes.
