@@ -15,8 +15,6 @@ namespace FizzBuzz.Tests
             String correctOutput = "Fizz";
             // Act
             String testOutput = subject.Get(testInput);
-
-
             // Assert
             Assert.Equal(testOutput, correctOutput);
         }
